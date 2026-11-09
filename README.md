@@ -51,11 +51,10 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** (UTN San Raf
 
 ---
 
-### 📊 Estadísticas y Actividad
+### 📊 Estadísticas y Enfoque
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ValeriaPinaya&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPinaya&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,html,css,mysql,git,github&perline=5" />
 </p>
 
 ---
